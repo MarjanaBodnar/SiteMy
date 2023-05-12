@@ -1,0 +1,25 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+header{
+	height: 200px;
+	background-color: lightblue;
+}
+#menu{
+	width: 30%;
+	height: 700px;
+	background-color: lightpink;
+	float: left;
+}
+#content{
+	height: 700px;
+	width: 70%;
+	background-color: lightslategray;
+	float: left;
+}
+footer{
+	height: 100px;
+	clear: both;
+}
